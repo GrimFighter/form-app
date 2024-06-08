@@ -1,0 +1,8 @@
+.footer{
+    text-align: center;
+    background-color: rgb(247, 204, 204);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    /* border:2px solid black; */
+    margin: 0.4px;
+}
